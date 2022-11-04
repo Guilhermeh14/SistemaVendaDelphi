@@ -1,0 +1,57 @@
+object modulo: Tmodulo
+  OldCreateOrder = False
+  Height = 439
+  Width = 736
+  object conexao: TFDConnection
+    Params.Strings = (
+      'Database=venda'
+      'User_Name=root'
+      'DriverID=MySQL')
+    LoginPrompt = False
+    Left = 56
+    Top = 32
+  end
+  object FDGUIxWaitCursor1: TFDGUIxWaitCursor
+    Provider = 'Forms'
+    Left = 184
+    Top = 32
+  end
+  object FDPhysMySQLDriverLink1: TFDPhysMySQLDriverLink
+    VendorLib = 'C:\Users\edriano.campana\Desktop\versao_2710\libmysql.dll'
+    Left = 312
+    Top = 32
+  end
+  object qryCidade: TFDQuery
+    Connection = conexao
+    SQL.Strings = (
+      'select * from cidade')
+    Left = 56
+    Top = 120
+    object qryCidadeIDCIDADE: TIntegerField
+      DisplayLabel = 'C'#243'digo'
+      FieldName = 'IDCIDADE'
+      Origin = 'IDCIDADE'
+      ProviderFlags = [pfInUpdate, pfInWhere, pfInKey]
+      Required = True
+    end
+    object qryCidadeNOMECIDADE: TStringField
+      AutoGenerateValue = arDefault
+      DisplayLabel = 'Nome'
+      FieldName = 'NOMECIDADE'
+      Origin = 'NOMECIDADE'
+      Size = 50
+    end
+    object qryCidadeSIGLAESTADO: TStringField
+      AutoGenerateValue = arDefault
+      DisplayLabel = 'Sigla'
+      FieldName = 'SIGLAESTADO'
+      Origin = 'SIGLAESTADO'
+      Size = 2
+    end
+  end
+  object qryAutoNum: TFDQuery
+    Connection = conexao
+    Left = 56
+    Top = 184
+  end
+end

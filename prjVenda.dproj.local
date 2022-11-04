@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/07/26 19:14:06.000.673,=C:\Users\edriano.campana\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/09/01 19:12:18.000.895,=C:\Users\edriano.campana\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/18 20:03:30.000.458,=C:\Users\edriano.campana\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/18 20:04:29.000.231,C:\Users\edriano.campana\Documents\Embarcadero\Studio\Projects\Unit1.dfm=R:\Ens Tecnico\DESENVOLVIMENTO DE SISTEMAS\2 Modulo\Desenvolvimento de Sistemas\Sistema_Venda\untPrincipal.dfm</Transaction>
+    <Transaction>2022/10/18 20:04:29.000.231,C:\Users\edriano.campana\Documents\Embarcadero\Studio\Projects\Unit1.pas=R:\Ens Tecnico\DESENVOLVIMENTO DE SISTEMAS\2 Modulo\Desenvolvimento de Sistemas\Sistema_Venda\untPrincipal.pas</Transaction>
+    <Transaction>2022/10/18 20:04:35.000.699,C:\Users\edriano.campana\Documents\Embarcadero\Studio\Projects\Project1.dproj=R:\Ens Tecnico\DESENVOLVIMENTO DE SISTEMAS\2 Modulo\Desenvolvimento de Sistemas\Sistema_Venda\prjVenda.dproj</Transaction>
+    <Transaction>2022/10/20 19:43:19.000.425,=C:\Users\edriano.campana\Desktop\versao_2010\Unit1.pas</Transaction>
+    <Transaction>2022/10/20 19:50:03.000.250,C:\Users\edriano.campana\Desktop\versao_2010\untPadrao.dfm=C:\Users\edriano.campana\Desktop\versao_2010\Unit1.dfm</Transaction>
+    <Transaction>2022/10/20 19:50:03.000.250,C:\Users\edriano.campana\Desktop\versao_2010\untPadrao.pas=C:\Users\edriano.campana\Desktop\versao_2010\Unit1.pas</Transaction>
+    <Transaction>2022/10/27 19:58:46.000.119,=C:\Users\edriano.campana\Desktop\versao_2510\Unit1.pas</Transaction>
+    <Transaction>2022/10/27 20:01:00.000.852,C:\Users\edriano.campana\Desktop\versao_2510\untModulo.pas=C:\Users\edriano.campana\Desktop\versao_2510\Unit1.pas</Transaction>
+    <Transaction>2022/10/27 20:01:00.000.852,C:\Users\edriano.campana\Desktop\versao_2510\untModulo.dfm=C:\Users\edriano.campana\Desktop\versao_2510\Unit1.dfm</Transaction>
+    <Transaction>2022/10/27 20:23:38.000.583,=C:\Users\edriano.campana\Desktop\versao_2510\Unit1.pas</Transaction>
+    <Transaction>2022/10/27 20:25:21.000.926,C:\Users\edriano.campana\Desktop\versao_2510\untCadCidade.pas=C:\Users\edriano.campana\Desktop\versao_2510\Unit1.pas</Transaction>
+    <Transaction>2022/10/27 20:25:21.000.926,C:\Users\edriano.campana\Desktop\versao_2510\untCadCidade.dfm=C:\Users\edriano.campana\Desktop\versao_2510\Unit1.dfm</Transaction>
+    <Transaction>2022/11/01 19:44:09.000.036,=C:\Users\edriano.campana\Desktop\versao_3110\Unit1.pas</Transaction>
+    <Transaction>2022/11/01 19:44:47.000.594,C:\Users\edriano.campana\Desktop\versao_3110\untCadProduto.pas=C:\Users\edriano.campana\Desktop\versao_3110\Unit1.pas</Transaction>
+    <Transaction>2022/11/01 19:44:47.000.594,C:\Users\edriano.campana\Desktop\versao_3110\untCadProduto.dfm=C:\Users\edriano.campana\Desktop\versao_3110\Unit1.dfm</Transaction>
+    <Transaction>2022/11/03 19:39:21.000.180,=C:\Users\etec\Desktop\versao_0111\Unit1.pas</Transaction>
+    <Transaction>2022/11/03 19:39:53.000.166,=C:\Users\etec\Desktop\versao_0111\Unit1.pas</Transaction>
+    <Transaction>2022/11/03 19:40:54.000.383,C:\Users\etec\Desktop\versao_0111\Unit1.pas=C:\Users\etec\Desktop\versao_0111\untCadCliente.pas</Transaction>
+    <Transaction>2022/11/03 19:40:54.000.383,C:\Users\etec\Desktop\versao_0111\Unit1.dfm=C:\Users\etec\Desktop\versao_0111\untCadCliente.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
